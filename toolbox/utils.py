@@ -1,7 +1,7 @@
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score, mean_squared_error
 from sklearn.model_selection import GridSearchCV
-from covid.algorithms import Algorithms
+from toolbox.algorithms import Algorithms
 
 # Train a model to predict a given dataframe column
 def train_model(df, target_col, test_size, algorithm):

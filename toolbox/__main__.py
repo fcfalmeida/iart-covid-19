@@ -4,9 +4,9 @@ import seaborn as sb
 import argparse
 import json
 import pickle
-from covid.encoder import Encoder
-from covid.algorithms import Algorithms
-import covid.utils as utils
+from toolbox.encoder import Encoder
+from toolbox.algorithms import Algorithms
+import toolbox.utils as utils
 
 le = Encoder()
 

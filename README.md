@@ -14,5 +14,5 @@ pip3 install -r requirements.txt
 On the root directory of the project run:
 
 ```bash
-python3 -m covid
+python3 -m toolbox
 ```

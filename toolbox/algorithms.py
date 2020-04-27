@@ -1,5 +1,4 @@
 from enum import Enum
-from covid.algorithm import Algorithm
 from sklearn.ensemble import RandomForestRegressor as RFR
 from sklearn.neural_network import MLPRegressor as MLPR
 
