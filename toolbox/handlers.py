@@ -11,10 +11,6 @@ def handle_train(args):
     algorithm = Algorithms[args.algorithm].value
 
     df = pd.read_csv(args.training_file)
-
-    # Fill Province/State NA values (temp)
-    df['Province/State'] = df['Province/State'].fillna('NA_' + df['Country/Region'])
-
     df = le.encode_dataframe(df)
 
     if args.gs_params_file:
@@ -32,10 +28,6 @@ def handle_predict(args):
     le = Encoder()
 
     df = pd.read_csv(args.test_file)
-
-    # Fill Province/State NA values (temp)
-    df['Province/State'] = df['Province/State'].fillna('NA_' + df['Country/Region'])
-
     df = le.encode_dataframe(df)
 
     model = pickle.load( open( args.model_file, "rb"))
