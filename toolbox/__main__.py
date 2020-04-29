@@ -5,7 +5,7 @@ import toolbox.handlers as handlers
 parser = argparse.ArgumentParser()
 subparsers = parser.add_subparsers()
 
-parser_train = subparsers.add_parser('train')
+parser_train = subparsers.add_parser('train', help='Train a model using one of the available algorithms')
 parser_train.set_defaults(func=handlers.handle_train)
 parser_train.add_argument('training_file', help='Path to the .csv file that contains the training data. \
     Must not contain missing values. The prep fillna command can be used to replace them.')
@@ -18,7 +18,7 @@ parser_train.add_argument('-gs', '--gsearch', dest='gs_params_file',
 parser_train.add_argument('-s', '--save', dest="save_model_file", help="When specified, saves the trained model on target file. \
     Takes as argument the name of a file. If the file doesn't exist, it will be created")
 
-parser_predict = subparsers.add_parser('predict')
+parser_predict = subparsers.add_parser('predict', help='Predict values using a previously trained model')
 parser_predict.set_defaults(func=handlers.handle_predict)
 parser_predict.add_argument('test_file', help='Path to the .csv test file. Should contain rows without the column that will be predicted \
     Must not contain missing values. The prep fillna command can be used to replace them.')
@@ -27,10 +27,10 @@ parser_predict.add_argument('target_col', help='Name of the column to predict')
 parser_predict.add_argument('-o', '--outfile', dest='out_file',
     help='When specified, saves the predictions on a .csv file. Takes as argument the name of the file')
 
-parser_prep = subparsers.add_parser('prep')
+parser_prep = subparsers.add_parser('prep', help='Dataframe preprocessing utilities')
 prep_subparsers = parser_prep.add_subparsers(help='prep help')
 
-parser_prep_fillna = prep_subparsers.add_parser('fillna')
+parser_prep_fillna = prep_subparsers.add_parser('fillna', help='Replace NA values with a given expression')
 parser_prep_fillna.set_defaults(func=handlers.handle_prep_fillna)
 parser_prep_fillna.add_argument('file', help='Path to the .csv file on which to fill the NA values')
 parser_prep_fillna.add_argument('column', help='Name of the column for which NA values should be filled')
@@ -40,11 +40,20 @@ parser_prep_fillna.add_argument('expression', help='Valid Python expression by w
 parser_prep_fillna.add_argument('-o', '--outfile', dest='out_file',
     help='When specified, saves the transformed dataframe on a .csv file. Takes as argument the name of the file')
 
-parser_prep_drop = prep_subparsers.add_parser('drop')
+parser_prep_drop = prep_subparsers.add_parser('drop', help='Drop a dataframe column')
 parser_prep_drop.set_defaults(func=handlers.handle_prep_drop)
 parser_prep_drop.add_argument('file', help='Path to the .csv file from which the column will be dropped')
 parser_prep_drop.add_argument('column', help='Name of the column to drop')
 parser_prep_drop.add_argument('-o', '--outfile', dest='out_file',
+    help='When specified, saves the transformed dataframe on a .csv file. Takes as argument the name of the file')
+
+parser_prep_transformdate = prep_subparsers.add_parser('transformdate', help='Transform a Date column into a days time delta')
+parser_prep_transformdate.set_defaults(func=handlers.handle_prep_transformdate)
+parser_prep_transformdate.add_argument('file', help='Path to the .csv file to transform')
+parser_prep_transformdate.add_argument('date_col', help='Name of the date column to transform')
+parser_prep_transformdate.add_argument('new_col', help='Name of the new column in which the day difference will be stored')
+parser_prep_transformdate.add_argument('refdate', help='Reference date from which the day difference will be calculated')
+parser_prep_transformdate.add_argument('-o', '--outfile', dest='out_file',
     help='When specified, saves the transformed dataframe on a .csv file. Takes as argument the name of the file')
 
 args = parser.parse_args()

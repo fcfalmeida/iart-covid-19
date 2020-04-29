@@ -59,3 +59,19 @@ def handle_prep_drop(args):
     if args.out_file:
         df.to_csv(args.out_file, index=False)
         print('Output saved in {0} file'.format(args.out_file))
+
+def handle_prep_transformdate(args):
+    df = pd.read_csv(args.file)
+    df[args.date_col] = pd.to_datetime(df[args.date_col])
+
+    basedate = pd.Timestamp(args.refdate)
+
+    df[args.new_col] = (df[args.date_col] - basedate).dt.days
+    df[args.date_col] = df[args.new_col]
+    df = df.drop(args.new_col, axis=1)
+    df = df.rename(columns={args.date_col: args.new_col})
+    print(df)
+
+    if args.out_file:
+        df.to_csv(args.out_file, index=False)
+        print('Output saved in {0} file'.format(args.out_file))
