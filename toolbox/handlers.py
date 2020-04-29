@@ -36,6 +36,7 @@ def handle_predict(args):
     print(predictions)
 
     if args.out_file:
+        df = le.decode_dataframe(df)
         df.to_csv(args.out_file, index=False)
         print('Output saved in {0} file'.format(args.out_file))
 
