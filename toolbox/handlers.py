@@ -30,13 +30,10 @@ def handle_predict(args):
     df = pd.read_csv(args.test_file)
     df = le.encode_dataframe(df)
 
-    model = pickle.load( open( args.model_file, "rb"))
+    model = pickle.load(open(args.model_file, 'rb'))
 
-    predictions = model.predict(df)
-    predictions = le.decode_column(args.target_col, predictions)
-    df[args.target_col] = predictions
-
-    print(df)
+    predictions = utils.predict_values(model, df, args.target_col)
+    print(predictions)
 
     if args.out_file:
         df.to_csv(args.out_file, index=False)
@@ -46,6 +43,16 @@ def handle_prep_fillna(args):
     df = pd.read_csv(args.file)
 
     df[args.column] = df[args.column].fillna(eval(args.expression))
+    print(df)
+
+    if args.out_file:
+        df.to_csv(args.out_file, index=False)
+        print('Output saved in {0} file'.format(args.out_file))
+
+def handle_prep_drop(args):
+    df = pd.read_csv(args.file)
+
+    df = df.drop(args.column, axis=1)
     print(df)
 
     if args.out_file:

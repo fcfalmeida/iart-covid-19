@@ -2,6 +2,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import r2_score, mean_squared_error
 from sklearn.model_selection import GridSearchCV
 from toolbox.algorithms import Algorithms
+from toolbox.encoder import Encoder
 
 # Train a model to predict a given dataframe column
 def train_model(df, target_col, test_size, algorithm):
@@ -25,6 +26,15 @@ def train_with_grid_search(df, target_col, test_size, algorithm, parameters):
     print(model.best_params_)
 
     return model
+
+def predict_values(model, test_df, target_col):
+    le = Encoder()
+
+    predictions = model.predict(test_df)
+    predictions = le.decode_column(target_col, predictions)
+    test_df[target_col] = predictions
+
+    return test_df
 
 def alg_names():
     algs = map(lambda alg: alg.name, list(Algorithms))
