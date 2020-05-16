@@ -56,5 +56,13 @@ parser_prep_transformdate.add_argument('refdate', help='Reference date from whic
 parser_prep_transformdate.add_argument('-o', '--outfile', dest='out_file',
     help='When specified, saves the transformed dataframe on a .csv file. Takes as argument the name of the file')
 
+parser_prep_renamecol = prep_subparsers.add_parser('renamecol', help='Rename a column')
+parser_prep_renamecol.set_defaults(func=handlers.handle_prep_renamecol)
+parser_prep_renamecol.add_argument('file', help='Path to the .csv file to transform')
+parser_prep_renamecol.add_argument('col', help='Name of the column to rename')
+parser_prep_renamecol.add_argument('new_col', help='New name of the column')
+parser_prep_renamecol.add_argument('-o', '--outfile', dest='out_file',
+    help='When specified, saves the transformed dataframe on a .csv file. Takes as argument the name of the file')
+
 args = parser.parse_args()
 args.func(args)

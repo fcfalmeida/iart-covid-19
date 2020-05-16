@@ -75,3 +75,13 @@ def handle_prep_transformdate(args):
     if args.out_file:
         df.to_csv(args.out_file, index=False)
         print('Output saved in {0} file'.format(args.out_file))
+
+def handle_prep_renamecol(args):
+    df = pd.read_csv(args.file)
+    df = df.rename(columns={args.col: args.new_col})
+
+    print(df)
+
+    if args.out_file:
+        df.to_csv(args.out_file, index=False)
+        print('Output saved in {0} file'.format(args.out_file))
