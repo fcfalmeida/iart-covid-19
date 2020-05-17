@@ -47,10 +47,10 @@ parser_prep_drop.add_argument('column', help='Name of the column to drop')
 parser_prep_drop.add_argument('-o', '--outfile', dest='out_file',
     help='When specified, saves the transformed dataframe on a .csv file. Takes as argument the name of the file')
 
-parser_prep_transformdate = prep_subparsers.add_parser('transformdate', help='Transform a Date column into a days time delta')
+parser_prep_transformdate = prep_subparsers.add_parser('transformdate', help='Creates a days time delta column from a date column')
 parser_prep_transformdate.set_defaults(func=handlers.handle_prep_transformdate)
 parser_prep_transformdate.add_argument('file', help='Path to the .csv file to transform')
-parser_prep_transformdate.add_argument('date_col', help='Name of the date column to transform')
+parser_prep_transformdate.add_argument('date_col', help='Name of the date column')
 parser_prep_transformdate.add_argument('new_col', help='Name of the new column in which the day difference will be stored')
 parser_prep_transformdate.add_argument('refdate', help='Reference date from which the day difference will be calculated')
 parser_prep_transformdate.add_argument('-o', '--outfile', dest='out_file',
@@ -62,6 +62,22 @@ parser_prep_renamecol.add_argument('file', help='Path to the .csv file to transf
 parser_prep_renamecol.add_argument('col', help='Name of the column to rename')
 parser_prep_renamecol.add_argument('new_col', help='New name of the column')
 parser_prep_renamecol.add_argument('-o', '--outfile', dest='out_file',
+    help='When specified, saves the transformed dataframe on a .csv file. Takes as argument the name of the file')
+
+parser_prep_custom = prep_subparsers.add_parser('custom', help='Custom set of transformations: replaces missing values on \
+    the State/Province column, runs transformdate command on Date column, adds Population data.')
+parser_prep_custom.set_defaults(func=handlers.handle_prep_custom)
+parser_prep_custom.add_argument('file', help='Path to the .csv file to transform')
+parser_prep_custom.add_argument('-o', '--outfile', dest='out_file',
+    help='When specified, saves the transformed dataframe on a .csv file. Takes as argument the name of the file')
+
+parser_prep_date_between = prep_subparsers.add_parser('datebetween', help='Transforms a dataset to only include rows with date\
+    between two given dates. Includes both the first and second dates')
+parser_prep_date_between.set_defaults(func=handlers.handle_prep_date_between)
+parser_prep_date_between.add_argument('file', help='Path to the .csv file to transform')
+parser_prep_date_between.add_argument('first_date', help='The first date in YYYY-mm-dd format')
+parser_prep_date_between.add_argument('second_date', help='The second date in YYYY-mm-dd format')
+parser_prep_date_between.add_argument('-o', '--outfile', dest='out_file',
     help='When specified, saves the transformed dataframe on a .csv file. Takes as argument the name of the file')
 
 args = parser.parse_args()
