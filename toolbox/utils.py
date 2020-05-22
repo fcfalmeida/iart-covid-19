@@ -23,6 +23,8 @@ def train_with_grid_search(df, target_col, test_size, algorithm, parameters):
     model = train_model(df, target_col, test_size, clf)
 
     print(model.cv_results_)
+    
+    print('Best params:')
     print(model.best_params_)
 
     return model
@@ -30,12 +32,20 @@ def train_with_grid_search(df, target_col, test_size, algorithm, parameters):
 def predict_values(model, test_df, target_col):
     le = Encoder()
 
+    test_df = le.encode_dataframe(test_df)
+
     predictions = model.predict(test_df)
     predictions = le.decode_column(target_col, predictions)
     test_df[target_col] = predictions
+
+    test_df = le.decode_dataframe(test_df)
 
     return test_df
 
 def alg_names():
     algs = map(lambda alg: alg.name, list(Algorithms))
     return list(algs)
+
+def calc_metrics(y_test, predictions):
+    print('R2 Score: ', r2_score(y_test, predictions))
+    print('Mean Square Error', mean_squared_error(y_test, predictions))

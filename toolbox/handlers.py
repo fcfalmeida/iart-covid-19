@@ -26,10 +26,7 @@ def handle_train(args):
         pickle.dump(model, open(args.save_model_file, 'wb'))
 
 def handle_predict(args):
-    le = Encoder()
-
     df = pd.read_csv(args.test_file)
-    df = le.encode_dataframe(df)
 
     model = pickle.load(open(args.model_file, 'rb'))
 
@@ -37,7 +34,6 @@ def handle_predict(args):
     print(predictions)
 
     if args.out_file:
-        df = le.decode_dataframe(df)
         df.to_csv(args.out_file, index=False)
         print('Output saved in {0} file'.format(args.out_file))
 
