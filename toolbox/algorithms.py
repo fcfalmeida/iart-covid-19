@@ -6,7 +6,7 @@ from sklearn.neighbors import KNeighborsRegressor as KNR
 class Algorithms(Enum):
     RandomForestRegressor = RFR()
     MLPRegressor = MLPR()
-    KNeighborsRegressor = KNR()
+    KNeighborsRegressor = KNR(n_neighbors=5, weights='distance')
 
     def __str__(self):
         return self.name

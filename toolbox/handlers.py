@@ -117,6 +117,8 @@ def handle_prep_custom(args):
     df['Deaths / Million Inhabitants'] = round((df['Deaths'] / df['Population']) * 1000000)
     df['Recovered / Million Inhabitants'] = round((df['Recovered'] / df['Population']) * 1000000)
 
+    df = df[df['Population'].notna()]
+
     print(df)
 
     if args.out_file:
