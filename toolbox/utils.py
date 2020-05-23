@@ -1,5 +1,5 @@
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import r2_score, mean_squared_error
+from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
 from sklearn.model_selection import GridSearchCV
 from toolbox.algorithms import Algorithms
 from toolbox.encoder import Encoder
@@ -14,7 +14,8 @@ def train_model(df, target_col, test_size, algorithm):
     predictions = model.predict(x_test)
     
     print('R2 Score: ', r2_score(y_test, predictions))
-    print('Mean Square Error', mean_squared_error(y_test, predictions))
+    print('Mean Absolute Error:', mean_absolute_error(y_test, predictions))
+    print('Mean Squared Error:', mean_squared_error(y_test, predictions))
 
     return model
 
@@ -32,15 +33,16 @@ def train_with_grid_search(df, target_col, test_size, algorithm, parameters):
 def predict_values(model, test_df, target_col):
     le = Encoder()
 
-    test_df = le.encode_dataframe(test_df)
+    df = test_df.copy()
+    df = le.encode_dataframe(df)
 
-    predictions = model.predict(test_df)
+    predictions = model.predict(df)
     predictions = le.decode_column(target_col, predictions)
-    test_df[target_col] = predictions
+    df[target_col] = predictions
 
-    test_df = le.decode_dataframe(test_df)
+    df = le.decode_dataframe(df)
 
-    return test_df
+    return df
 
 def alg_names():
     algs = map(lambda alg: alg.name, list(Algorithms))
@@ -48,4 +50,5 @@ def alg_names():
 
 def calc_metrics(y_test, predictions):
     print('R2 Score: ', r2_score(y_test, predictions))
+    print('Mean Absolute Error:', mean_absolute_error(y_test, predictions))
     print('Mean Square Error', mean_squared_error(y_test, predictions))
