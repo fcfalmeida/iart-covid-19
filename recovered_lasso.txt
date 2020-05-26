@@ -1,0 +1,1091 @@
+Fitting 5 folds for each of 80 candidates, totalling 400 fits
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.2s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.2s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.2s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.2s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.2s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   4.9s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   7.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   8.8s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.9s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.7s
+[CV] alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.7s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.2s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.2s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.2s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.2s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.2s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=  15.4s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=  12.6s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   4.9s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   8.7s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.1, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.2s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   4.7s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   4.8s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   4.8s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   4.8s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   4.7s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   4.8s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.7s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.7s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.2s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   4.8s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   4.7s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   5.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   4.3s
+[CV] alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   3.8s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   3.8s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   3.8s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   3.8s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   3.8s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.1s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.2, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   3.8s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   3.8s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   3.8s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   3.8s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   3.8s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.3, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   3.9s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.4, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.7s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=True, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=True, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=True, precompute=False, total=   0.1s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.7s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.8s
+[CV] alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=True, normalize=False, precompute=False, total=   3.7s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=True, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=True 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=True, total=   0.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+[CV] alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=False 
+[CV]  alpha=0.5, copy_X=False, fit_intercept=False, normalize=False, precompute=False, total=   4.0s
+R2 Score:  0.43795074378016485
+Mean Absolute Error: 495.27739498436785
+Mean Squared Error: 8226181.107756736
+{'mean_fit_time': array([7.81993866e-03, 1.60202312e-01, 1.02181435e-02, 4.83030291e+00,
+       1.04021549e-02, 6.05980821e+00, 1.03698730e-02, 4.79967704e+00,
+       5.31649590e-03, 1.53111029e-01, 8.59694481e-03, 4.81535158e+00,
+       1.28731251e-02, 8.49013472e+00, 7.79891014e-03, 5.58914819e+00,
+       6.25724792e-03, 1.42219687e-01, 9.59730148e-03, 4.80004911e+00,
+       1.07575893e-02, 4.76676359e+00, 1.03948116e-02, 4.78609347e+00,
+       5.20024300e-03, 1.40799522e-01, 8.60705376e-03, 4.55426455e+00,
+       9.20758247e-03, 3.82435818e+00, 7.59077072e-03, 3.93368630e+00,
+       5.60083389e-03, 1.12200308e-01, 9.20410156e-03, 3.83004570e+00,
+       1.09970093e-02, 3.82484393e+00, 9.90080833e-03, 3.85566201e+00,
+       4.80055809e-03, 1.13200521e-01, 7.99498558e-03, 3.87882633e+00,
+       7.59963989e-03, 3.89734154e+00, 7.79905319e-03, 3.91980224e+00,
+       5.80286980e-03, 1.06799650e-01, 8.39967728e-03, 3.92831750e+00,
+       9.79404449e-03, 3.93233285e+00, 1.15954876e-02, 3.95651512e+00,
+       4.79965210e-03, 1.07800293e-01, 6.59570694e-03, 3.94226689e+00,
+       7.59711266e-03, 3.96712766e+00, 7.60073662e-03, 3.97073369e+00,
+       5.60250282e-03, 9.81999874e-02, 6.79569244e-03, 3.75334721e+00,
+       8.60233307e-03, 3.98703780e+00, 7.99336433e-03, 3.98243065e+00,
+       4.60729599e-03, 9.83995438e-02, 6.40206337e-03, 3.74536905e+00,
+       7.19556808e-03, 3.99932098e+00, 7.59444237e-03, 3.99671936e+00]), 'std_fit_time': array([7.38020364e-04, 8.34837788e-03, 3.93504023e-03, 5.93398338e-03,
+       3.38545983e-03, 1.60029836e+00, 4.15433089e-03, 5.62097838e-02,
+       3.50344919e-04, 2.37893462e-03, 2.79887492e-03, 2.60310374e-02,
+       3.73651667e-03, 4.59924260e+00, 3.12706905e-03, 1.55430021e+00,
+       1.07444309e-03, 9.86257122e-03, 3.37820381e-03, 3.15428450e-02,
+       3.48666206e-03, 2.43303257e-02, 3.26506762e-03, 3.50407691e-02,
+       9.86206475e-04, 5.77498691e-03, 2.79103014e-03, 3.75543591e-01,
+       3.59568994e-03, 1.56812898e-02, 2.72872334e-03, 1.01241144e-01,
+       4.86546131e-04, 5.91270999e-03, 2.49043899e-03, 3.36477101e-02,
+       3.34833725e-03, 1.66354389e-02, 3.03730582e-03, 7.91893740e-03,
+       7.48711160e-04, 6.04588593e-03, 2.52646044e-03, 3.10401367e-02,
+       2.33157416e-03, 9.27012365e-03, 2.65009424e-03, 1.32377981e-02,
+       7.42176059e-04, 8.15922513e-03, 2.49567567e-03, 1.98908627e-02,
+       2.93152729e-03, 9.23009557e-03, 2.49433439e-03, 1.41749824e-02,
+       9.80114524e-04, 7.43947430e-03, 2.24615628e-03, 6.77364283e-03,
+       2.41500373e-03, 1.50521943e-02, 2.73712059e-03, 2.24923744e-02,
+       4.92076300e-04, 2.48273878e-03, 7.47020607e-04, 1.56064332e-02,
+       2.80866477e-03, 1.64299886e-02, 2.10059272e-03, 1.69873554e-02,
+       7.98737078e-04, 2.24470431e-03, 1.36129141e-03, 3.65877542e-02,
+       2.47817951e-03, 1.12517757e-02, 2.34117880e-03, 1.32970359e-02]), 'mean_score_time': array([0.00184216, 0.00146585, 0.00219135, 0.00141282, 0.00240521,
+       0.00162296, 0.00238218, 0.00139866, 0.00108409, 0.00118217,
+       0.00200806, 0.00138955, 0.00320854, 0.00179276, 0.00202522,
+       0.00151224, 0.00135083, 0.00153179, 0.0018126 , 0.00101256,
+       0.0025928 , 0.00118923, 0.00260344, 0.00128074, 0.001615  ,
+       0.00140018, 0.00205336, 0.00120001, 0.0028017 , 0.00119991,
+       0.00240993, 0.0011991 , 0.00159636, 0.00099974, 0.00199761,
+       0.00139928, 0.00220065, 0.00119867, 0.00211234, 0.00140028,
+       0.00180387, 0.00160017, 0.00220213, 0.00119958, 0.00240307,
+       0.00119991, 0.00219584, 0.00099888, 0.00119882, 0.00139952,
+       0.00220742, 0.00099945, 0.00220232, 0.00119863, 0.00220356,
+       0.00119939, 0.00139923, 0.00159926, 0.00200887, 0.00139928,
+       0.0024045 , 0.00140071, 0.00260448, 0.00119982, 0.00160184,
+       0.00119977, 0.0020031 , 0.00099969, 0.00179858, 0.00119996,
+       0.00200315, 0.00140047, 0.00179334, 0.00100093, 0.00139899,
+       0.00120029, 0.00240359, 0.00120001, 0.00241899, 0.00140047]), 'std_score_time': array([7.37901683e-04, 4.39992568e-04, 7.53943023e-04, 4.80149883e-04,
+       8.03928293e-04, 1.19100884e-03, 8.06391422e-04, 4.89707272e-04,
+       3.45566326e-04, 1.62171301e-04, 6.31119056e-04, 3.59767724e-04,
+       1.22515349e-03, 1.59786711e-03, 6.37588566e-04, 4.13361477e-04,
+       3.15324787e-04, 4.01578836e-04, 7.42566545e-04, 1.61815798e-05,
+       8.11977097e-04, 4.06704445e-04, 1.02064632e-03, 4.01564624e-04,
+       6.04930800e-04, 4.88850850e-04, 8.47061688e-04, 3.99923794e-04,
+       7.38120208e-04, 4.00210861e-04, 4.88872398e-04, 4.00734742e-04,
+       4.90780035e-04, 6.97552626e-07, 6.35867430e-04, 4.89785046e-04,
+       4.00762680e-04, 3.99280061e-04, 2.06327135e-04, 4.90330502e-04,
+       4.02015495e-04, 4.89122990e-04, 7.50231915e-04, 4.00259298e-04,
+       8.04177143e-04, 3.99614216e-04, 7.44318290e-04, 1.19304619e-06,
+       4.01132196e-04, 4.89886192e-04, 7.51265298e-04, 3.31736128e-06,
+       7.48699960e-04, 4.00139986e-04, 7.48571657e-04, 4.00591251e-04,
+       4.89532913e-04, 4.89843893e-04, 9.01850418e-04, 4.89980170e-04,
+       4.90643642e-04, 4.91150745e-04, 4.94526205e-04, 4.00258502e-04,
+       4.89158201e-04, 4.00997580e-04, 3.15434178e-06, 8.52992240e-07,
+       3.99469668e-04, 4.01021014e-04, 6.45300046e-06, 4.89785812e-04,
+       3.97000008e-04, 1.05982355e-06, 4.90315269e-04, 3.99900375e-04,
+       4.96194341e-04, 4.00281474e-04, 8.12374061e-04, 4.89980240e-04]), 'param_alpha': masked_array(data=[0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1, 0.1,
+                   0.1, 0.1, 0.1, 0.1, 0.1, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2,
+                   0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.3,
+                   0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3, 0.3,
+                   0.3, 0.3, 0.3, 0.3, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4,
+                   0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.4, 0.5, 0.5,
+                   0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5, 0.5,
+                   0.5, 0.5, 0.5],
+             mask=[False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_copy_X': masked_array(data=[True, True, True, True, True, True, True, True, False,
+                   False, False, False, False, False, False, False, True,
+                   True, True, True, True, True, True, True, False, False,
+                   False, False, False, False, False, False, True, True,
+                   True, True, True, True, True, True, False, False,
+                   False, False, False, False, False, False, True, True,
+                   True, True, True, True, True, True, False, False,
+                   False, False, False, False, False, False, True, True,
+                   True, True, True, True, True, True, False, False,
+                   False, False, False, False, False, False],
+             mask=[False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_fit_intercept': masked_array(data=[True, True, True, True, False, False, False, False,
+                   True, True, True, True, False, False, False, False,
+                   True, True, True, True, False, False, False, False,
+                   True, True, True, True, False, False, False, False,
+                   True, True, True, True, False, False, False, False,
+                   True, True, True, True, False, False, False, False,
+                   True, True, True, True, False, False, False, False,
+                   True, True, True, True, False, False, False, False,
+                   True, True, True, True, False, False, False, False,
+                   True, True, True, True, False, False, False, False],
+             mask=[False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_normalize': masked_array(data=[True, True, False, False, True, True, False, False,
+                   True, True, False, False, True, True, False, False,
+                   True, True, False, False, True, True, False, False,
+                   True, True, False, False, True, True, False, False,
+                   True, True, False, False, True, True, False, False,
+                   True, True, False, False, True, True, False, False,
+                   True, True, False, False, True, True, False, False,
+                   True, True, False, False, True, True, False, False,
+                   True, True, False, False, True, True, False, False,
+                   True, True, False, False, True, True, False, False],
+             mask=[False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'param_precompute': masked_array(data=[True, False, True, False, True, False, True, False,
+                   True, False, True, False, True, False, True, False,
+                   True, False, True, False, True, False, True, False,
+                   True, False, True, False, True, False, True, False,
+                   True, False, True, False, True, False, True, False,
+                   True, False, True, False, True, False, True, False,
+                   True, False, True, False, True, False, True, False,
+                   True, False, True, False, True, False, True, False,
+                   True, False, True, False, True, False, True, False,
+                   True, False, True, False, True, False, True, False],
+             mask=[False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False,
+                   False, False, False, False, False, False, False, False],
+       fill_value='?',
+            dtype=object), 'params': [{'alpha': 0.1, 'copy_X': True, 'fit_intercept': True, 'normalize': True, 'precompute': True}, {'alpha': 0.1, 'copy_X': True, 'fit_intercept': True, 'normalize': True, 'precompute': False}, {'alpha': 0.1, 'copy_X': True, 'fit_intercept': True, 'normalize': False, 'precompute': True}, {'alpha': 0.1, 'copy_X': True, 'fit_intercept': True, 'normalize': False, 'precompute': False}, {'alpha': 0.1, 'copy_X': True, 'fit_intercept': False, 'normalize': True, 'precompute': True}, {'alpha': 0.1, 'copy_X': True, 'fit_intercept': False, 'normalize': True, 'precompute': False}, {'alpha': 0.1, 'copy_X': True, 'fit_intercept': False, 'normalize': False, 'precompute': True}, {'alpha': 0.1, 'copy_X': True, 'fit_intercept': False, 'normalize': False, 'precompute': False}, {'alpha': 0.1, 'copy_X': False, 'fit_intercept': True, 'normalize': True, 'precompute': True}, {'alpha': 0.1, 'copy_X': False, 'fit_intercept': True, 'normalize': True, 'precompute': False}, {'alpha': 0.1, 'copy_X': False, 'fit_intercept': True, 'normalize': False, 'precompute': True}, {'alpha': 0.1, 'copy_X': False, 'fit_intercept': True, 'normalize': False, 'precompute': False}, {'alpha': 0.1, 'copy_X': False, 'fit_intercept': False, 'normalize': True, 'precompute': True}, {'alpha': 0.1, 'copy_X': False, 'fit_intercept': False, 'normalize': True, 'precompute': False}, {'alpha': 0.1, 'copy_X': False, 'fit_intercept': False, 'normalize': False, 'precompute': True}, {'alpha': 0.1, 'copy_X': False, 'fit_intercept': False, 'normalize': False, 'precompute': False}, {'alpha': 0.2, 'copy_X': True, 'fit_intercept': True, 'normalize': True, 'precompute': True}, {'alpha': 0.2, 'copy_X': True, 'fit_intercept': True, 'normalize': True, 'precompute': False}, {'alpha': 0.2, 'copy_X': True, 'fit_intercept': True, 'normalize': False, 'precompute': True}, {'alpha': 0.2, 'copy_X': True, 'fit_intercept': True, 'normalize': False, 'precompute': False}, {'alpha': 0.2, 'copy_X': True, 'fit_intercept': False, 'normalize': True, 'precompute': True}, {'alpha': 0.2, 'copy_X': True, 'fit_intercept': False, 'normalize': True, 'precompute': False}, {'alpha': 0.2, 'copy_X': True, 'fit_intercept': False, 'normalize': False, 'precompute': True}, {'alpha': 0.2, 'copy_X': True, 'fit_intercept': False, 'normalize': False, 'precompute': False}, {'alpha': 0.2, 'copy_X': False, 'fit_intercept': True, 'normalize': True, 'precompute': True}, {'alpha': 0.2, 'copy_X': False, 'fit_intercept': True, 'normalize': True, 'precompute': False}, {'alpha': 0.2, 'copy_X': False, 'fit_intercept': True, 'normalize': False, 'precompute': True}, {'alpha': 0.2, 'copy_X': False, 'fit_intercept': True, 'normalize': False, 'precompute': False}, {'alpha': 0.2, 'copy_X': False, 'fit_intercept': False, 'normalize': True, 'precompute': True}, {'alpha': 0.2, 'copy_X': False, 'fit_intercept': False, 'normalize': True, 'precompute': False}, {'alpha': 0.2, 'copy_X': False, 'fit_intercept': False, 'normalize': False, 'precompute': True}, {'alpha': 0.2, 'copy_X': False, 'fit_intercept': False, 'normalize': False, 'precompute': False}, {'alpha': 0.3, 'copy_X': True, 'fit_intercept': True, 'normalize': True, 'precompute': True}, {'alpha': 0.3, 'copy_X': True, 'fit_intercept': True, 'normalize': True, 'precompute': False}, {'alpha': 0.3, 'copy_X': True, 'fit_intercept': True, 'normalize': False, 'precompute': True}, {'alpha': 0.3, 'copy_X': True, 'fit_intercept': True, 'normalize': False, 'precompute': False}, {'alpha': 0.3, 'copy_X': True, 'fit_intercept': False, 'normalize': True, 'precompute': True}, {'alpha': 0.3, 'copy_X': True, 'fit_intercept': False, 'normalize': True, 'precompute': False}, {'alpha': 0.3, 'copy_X': True, 'fit_intercept': False, 'normalize': False, 'precompute': True}, {'alpha': 0.3, 'copy_X': True, 'fit_intercept': False, 'normalize': False, 'precompute': False}, {'alpha': 0.3, 'copy_X': False, 'fit_intercept': True, 'normalize': True, 'precompute': True}, {'alpha': 0.3, 'copy_X': False, 'fit_intercept': True, 'normalize': True, 'precompute': False}, {'alpha': 0.3, 'copy_X': False, 'fit_intercept': True, 'normalize': False, 'precompute': True}, {'alpha': 0.3, 'copy_X': False, 'fit_intercept': True, 'normalize': False, 'precompute': False}, {'alpha': 0.3, 'copy_X': False, 'fit_intercept': False, 'normalize': True, 'precompute': True}, {'alpha': 0.3, 'copy_X': False, 'fit_intercept': False, 'normalize': True, 'precompute': False}, {'alpha': 0.3, 'copy_X': False, 'fit_intercept': False, 'normalize': False, 'precompute': True}, {'alpha': 0.3, 'copy_X': False, 'fit_intercept': False, 'normalize': False, 'precompute': False}, {'alpha': 0.4, 'copy_X': True, 'fit_intercept': True, 'normalize': True, 'precompute': True}, {'alpha': 0.4, 'copy_X': True, 'fit_intercept': True, 'normalize': True, 'precompute': False}, {'alpha': 0.4, 'copy_X': True, 'fit_intercept': True, 'normalize': False, 'precompute': True}, {'alpha': 0.4, 'copy_X': True, 'fit_intercept': True, 'normalize': False, 'precompute': False}, {'alpha': 0.4, 'copy_X': True, 'fit_intercept': False, 'normalize': True, 'precompute': True}, {'alpha': 0.4, 'copy_X': True, 'fit_intercept': False, 'normalize': True, 'precompute': False}, {'alpha': 0.4, 'copy_X': True, 'fit_intercept': False, 'normalize': False, 'precompute': True}, {'alpha': 0.4, 'copy_X': True, 'fit_intercept': False, 'normalize': False, 'precompute': False}, {'alpha': 0.4, 'copy_X': False, 'fit_intercept': True, 'normalize': True, 'precompute': True}, {'alpha': 0.4, 'copy_X': False, 'fit_intercept': True, 'normalize': True, 'precompute': False}, {'alpha': 0.4, 'copy_X': False, 'fit_intercept': True, 'normalize': False, 'precompute': True}, {'alpha': 0.4, 'copy_X': False, 'fit_intercept': True, 'normalize': False, 'precompute': False}, {'alpha': 0.4, 'copy_X': False, 'fit_intercept': False, 'normalize': True, 'precompute': True}, {'alpha': 0.4, 'copy_X': False, 'fit_intercept': False, 'normalize': True, 'precompute': False}, {'alpha': 0.4, 'copy_X': False, 'fit_intercept': False, 'normalize': False, 'precompute': True}, {'alpha': 0.4, 'copy_X': False, 'fit_intercept': False, 'normalize': False, 'precompute': False}, {'alpha': 0.5, 'copy_X': True, 'fit_intercept': True, 'normalize': True, 'precompute': True}, {'alpha': 0.5, 'copy_X': True, 'fit_intercept': True, 'normalize': True, 'precompute': False}, {'alpha': 0.5, 'copy_X': True, 'fit_intercept': True, 'normalize': False, 'precompute': True}, {'alpha': 0.5, 'copy_X': True, 'fit_intercept': True, 'normalize': False, 'precompute': False}, {'alpha': 0.5, 'copy_X': True, 'fit_intercept': False, 'normalize': True, 'precompute': True}, {'alpha': 0.5, 'copy_X': True, 'fit_intercept': False, 'normalize': True, 'precompute': False}, {'alpha': 0.5, 'copy_X': True, 'fit_intercept': False, 'normalize': False, 'precompute': True}, {'alpha': 0.5, 'copy_X': True, 'fit_intercept': False, 'normalize': False, 'precompute': False}, {'alpha': 0.5, 'copy_X': False, 'fit_intercept': True, 'normalize': True, 'precompute': True}, {'alpha': 0.5, 'copy_X': False, 'fit_intercept': True, 'normalize': True, 'precompute': False}, {'alpha': 0.5, 'copy_X': False, 'fit_intercept': True, 'normalize': False, 'precompute': True}, {'alpha': 0.5, 'copy_X': False, 'fit_intercept': True, 'normalize': False, 'precompute': False}, {'alpha': 0.5, 'copy_X': False, 'fit_intercept': False, 'normalize': True, 'precompute': True}, {'alpha': 0.5, 'copy_X': False, 'fit_intercept': False, 'normalize': True, 'precompute': False}, {'alpha': 0.5, 'copy_X': False, 'fit_intercept': False, 'normalize': False, 'precompute': True}, {'alpha': 0.5, 'copy_X': False, 'fit_intercept': False, 'normalize': False, 'precompute': False}], 'split0_test_score': array([0.45028892, 0.45028892, 0.45268978, 0.45268978, 0.45281979,
+       0.45281979, 0.45281979, 0.45281979, 0.45028892, 0.45028892,
+       0.45268978, 0.45268978, 0.45281979, 0.45281979, 0.45281979,
+       0.45281979, 0.4485255 , 0.4485255 , 0.45268961, 0.45268961,
+       0.4528196 , 0.4528196 , 0.4528196 , 0.4528196 , 0.4485255 ,
+       0.4485255 , 0.45268961, 0.45268961, 0.4528196 , 0.4528196 ,
+       0.4528196 , 0.4528196 , 0.44735204, 0.44735204, 0.45268944,
+       0.45268944, 0.45281941, 0.45281941, 0.45281941, 0.45281941,
+       0.44735204, 0.44735204, 0.45268944, 0.45268944, 0.45281941,
+       0.45281941, 0.45281941, 0.45281941, 0.44597323, 0.44597323,
+       0.45268927, 0.45268927, 0.45281923, 0.45281923, 0.45281923,
+       0.45281923, 0.44597323, 0.44597323, 0.45268927, 0.45268927,
+       0.45281923, 0.45281923, 0.45281923, 0.45281923, 0.44439113,
+       0.44439113, 0.45268909, 0.45268909, 0.45281904, 0.45281904,
+       0.45281904, 0.45281904, 0.44439113, 0.44439113, 0.45268909,
+       0.45268909, 0.45281904, 0.45281904, 0.45281904, 0.45281904]), 'split1_test_score': array([0.37654347, 0.37654347, 0.37635215, 0.37635215, 0.37629492,
+       0.37629492, 0.37629492, 0.37629492, 0.37654347, 0.37654347,
+       0.37635215, 0.37635215, 0.37629492, 0.37629492, 0.37629492,
+       0.37629492, 0.37649917, 0.37649917, 0.3763521 , 0.3763521 ,
+       0.37629491, 0.37629491, 0.37629491, 0.37629491, 0.37649917,
+       0.37649917, 0.3763521 , 0.3763521 , 0.37629491, 0.37629491,
+       0.37629491, 0.37629491, 0.37619227, 0.37619227, 0.37635204,
+       0.37635204, 0.37629491, 0.37629491, 0.37629491, 0.37629491,
+       0.37619227, 0.37619227, 0.37635204, 0.37635204, 0.37629491,
+       0.37629491, 0.37629491, 0.37629491, 0.37560971, 0.37560971,
+       0.37635199, 0.37635199, 0.3762949 , 0.3762949 , 0.3762949 ,
+       0.3762949 , 0.37560971, 0.37560971, 0.37635199, 0.37635199,
+       0.3762949 , 0.3762949 , 0.3762949 , 0.3762949 , 0.37476958,
+       0.37476958, 0.37635194, 0.37635194, 0.37629489, 0.37629489,
+       0.37629489, 0.37629489, 0.37476958, 0.37476958, 0.37635194,
+       0.37635194, 0.37629489, 0.37629489, 0.37629489, 0.37629489]), 'split2_test_score': array([0.41714915, 0.41714915, 0.41767833, 0.41767833, 0.41759586,
+       0.41759586, 0.41759586, 0.41759586, 0.41714915, 0.41714915,
+       0.41767833, 0.41767833, 0.41759586, 0.41759586, 0.41759586,
+       0.41759586, 0.4162314 , 0.4162314 , 0.41767844, 0.41767844,
+       0.41759594, 0.41759594, 0.41759594, 0.41759594, 0.4162314 ,
+       0.4162314 , 0.41767844, 0.41767844, 0.41759594, 0.41759594,
+       0.41759594, 0.41759594, 0.41492502, 0.41492502, 0.41767854,
+       0.41767854, 0.41759603, 0.41759603, 0.41759603, 0.41759603,
+       0.41492502, 0.41492502, 0.41767854, 0.41767854, 0.41759603,
+       0.41759603, 0.41759603, 0.41759603, 0.41356468, 0.41356468,
+       0.41767865, 0.41767865, 0.41759611, 0.41759611, 0.41759611,
+       0.41759611, 0.41356468, 0.41356468, 0.41767865, 0.41767865,
+       0.41759611, 0.41759611, 0.41759611, 0.41759611, 0.41219982,
+       0.41219982, 0.41767876, 0.41767876, 0.4175962 , 0.4175962 ,
+       0.4175962 , 0.4175962 , 0.41219982, 0.41219982, 0.41767876,
+       0.41767876, 0.4175962 , 0.4175962 , 0.4175962 , 0.4175962 ]), 'split3_test_score': array([0.52598985, 0.52598985, 0.52743574, 0.52743574, 0.52741846,
+       0.52741846, 0.52741846, 0.52741846, 0.52598985, 0.52598985,
+       0.52743574, 0.52743574, 0.52741846, 0.52741846, 0.52741846,
+       0.52741846, 0.52424449, 0.52424449, 0.52743572, 0.52743572,
+       0.52741841, 0.52741841, 0.52741841, 0.52741841, 0.52424449,
+       0.52424449, 0.52743572, 0.52743572, 0.52741841, 0.52741841,
+       0.52741841, 0.52741841, 0.52218374, 0.52218374, 0.52743569,
+       0.52743569, 0.52741837, 0.52741837, 0.52741837, 0.52741837,
+       0.52218374, 0.52218374, 0.52743569, 0.52743569, 0.52741837,
+       0.52741837, 0.52741837, 0.52741837, 0.52006986, 0.52006986,
+       0.52743566, 0.52743566, 0.52741832, 0.52741832, 0.52741832,
+       0.52741832, 0.52006986, 0.52006986, 0.52743566, 0.52743566,
+       0.52741832, 0.52741832, 0.52741832, 0.52741832, 0.51789005,
+       0.51789005, 0.52743563, 0.52743563, 0.52741828, 0.52741828,
+       0.52741828, 0.52741828, 0.51789005, 0.51789005, 0.52743563,
+       0.52743563, 0.52741828, 0.52741828, 0.52741828, 0.52741828]), 'split4_test_score': array([0.53339654, 0.53339654, 0.52845522, 0.52845522, 0.52841323,
+       0.52841323, 0.52841323, 0.52841323, 0.53339654, 0.53339654,
+       0.52845522, 0.52845522, 0.52841323, 0.52841323, 0.52841323,
+       0.52841323, 0.53751352, 0.53751352, 0.52845541, 0.52845541,
+       0.52841347, 0.52841347, 0.52841347, 0.52841347, 0.53751352,
+       0.53751352, 0.52845541, 0.52845541, 0.52841347, 0.52841347,
+       0.52841347, 0.52841347, 0.54084554, 0.54084554, 0.5284556 ,
+       0.5284556 , 0.5284137 , 0.5284137 , 0.5284137 , 0.5284137 ,
+       0.54084554, 0.54084554, 0.5284556 , 0.5284556 , 0.5284137 ,
+       0.5284137 , 0.5284137 , 0.5284137 , 0.54339064, 0.54339064,
+       0.52845579, 0.52845579, 0.52841394, 0.52841394, 0.52841394,
+       0.52841394, 0.54339064, 0.54339064, 0.52845579, 0.52845579,
+       0.52841394, 0.52841394, 0.52841394, 0.52841394, 0.54569302,
+       0.54569302, 0.52845598, 0.52845598, 0.52841417, 0.52841417,
+       0.52841417, 0.52841417, 0.54569302, 0.54569302, 0.52845598,
+       0.52845598, 0.52841417, 0.52841417, 0.52841417, 0.52841417]), 'mean_test_score': array([0.46067359, 0.46067359, 0.46052224, 0.46052224, 0.46050845,
+       0.46050845, 0.46050845, 0.46050845, 0.46067359, 0.46067359,
+       0.46052224, 0.46052224, 0.46050845, 0.46050845, 0.46050845,
+       0.46050845, 0.46060281, 0.46060281, 0.46052225, 0.46052225,
+       0.46050847, 0.46050847, 0.46050847, 0.46050847, 0.46060281,
+       0.46060281, 0.46052225, 0.46052225, 0.46050847, 0.46050847,
+       0.46050847, 0.46050847, 0.46029972, 0.46029972, 0.46052226,
+       0.46052226, 0.46050848, 0.46050848, 0.46050848, 0.46050848,
+       0.46029972, 0.46029972, 0.46052226, 0.46052226, 0.46050848,
+       0.46050848, 0.46050848, 0.46050848, 0.45972162, 0.45972162,
+       0.46052227, 0.46052227, 0.4605085 , 0.4605085 , 0.4605085 ,
+       0.4605085 , 0.45972162, 0.45972162, 0.46052227, 0.46052227,
+       0.4605085 , 0.4605085 , 0.4605085 , 0.4605085 , 0.45898872,
+       0.45898872, 0.46052228, 0.46052228, 0.46050851, 0.46050851,
+       0.46050851, 0.46050851, 0.45898872, 0.45898872, 0.46052228,
+       0.46052228, 0.46050851, 0.46050851, 0.46050851, 0.46050851]), 'std_test_score': array([0.06104906, 0.06104906, 0.06012297, 0.06012297, 0.06013407,
+       0.06013407, 0.06013407, 0.06013407, 0.06104906, 0.06104906,
+       0.06012297, 0.06012297, 0.06013407, 0.06013407, 0.06013407,
+       0.06013407, 0.06189285, 0.06189285, 0.06012301, 0.06012301,
+       0.06013411, 0.06013411, 0.06013411, 0.06013411, 0.06189285,
+       0.06189285, 0.06012301, 0.06012301, 0.06013411, 0.06013411,
+       0.06013411, 0.06013411, 0.06263838, 0.06263838, 0.06012305,
+       0.06012305, 0.06013415, 0.06013415, 0.06013415, 0.06013415,
+       0.06263838, 0.06263838, 0.06012305, 0.06012305, 0.06013415,
+       0.06013415, 0.06013415, 0.06013415, 0.06330357, 0.06330357,
+       0.06012309, 0.06012309, 0.06013418, 0.06013418, 0.06013418,
+       0.06013418, 0.06330357, 0.06330357, 0.06012309, 0.06012309,
+       0.06013418, 0.06013418, 0.06013418, 0.06013418, 0.06400337,
+       0.06400337, 0.06012314, 0.06012314, 0.06013422, 0.06013422,
+       0.06013422, 0.06013422, 0.06400337, 0.06400337, 0.06012314,
+       0.06012314, 0.06013422, 0.06013422, 0.06013422, 0.06013422]), 'rank_test_score': array([ 3,  1, 27, 25, 61, 65, 61, 65,  3,  1, 27, 25, 61, 65, 61, 65,  7,
+        5, 23, 21, 57, 53, 57, 53,  7,  5, 23, 21, 57, 53, 57, 53, 71, 69,
+       17, 19, 45, 49, 45, 49, 71, 69, 17, 19, 45, 49, 45, 49, 75, 73, 13,
+       15, 41, 37, 41, 37, 75, 73, 13, 15, 41, 37, 41, 37, 79, 77,  9, 11,
+       33, 29, 33, 29, 79, 77,  9, 11, 33, 29, 33, 29])}
+Best params:
+{'alpha': 0.1, 'copy_X': True, 'fit_intercept': True, 'normalize': True, 'precompute': False}
