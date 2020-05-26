@@ -1,0 +1,7 @@
+{
+  "n_estimators":[100, 200],
+  "criterion":["mse"],
+  "min_samples_split":[2,4,8],
+  "min_samples_leaf":[1,4,8],
+  "max_features":["auto","sqrt","log2"]
+}
