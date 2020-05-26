@@ -1,6 +1,7 @@
 import pandas as pd
 import json
 import pickle
+import time
 from datetime import datetime
 from toolbox.encoder import Encoder
 from toolbox.algorithms import Algorithms
@@ -14,6 +15,8 @@ def handle_train(args):
     df = pd.read_csv(args.training_file)
     df = le.encode_dataframe(df)
 
+    start_time = time.time()
+
     if args.gs_params_file:
         with open(args.gs_params_file, 'r') as f:
             parameters = json.load(f)
@@ -21,6 +24,8 @@ def handle_train(args):
         model = utils.train_with_grid_search(df, args.target_col, args.test_size, algorithm, parameters)
     else:
         model = utils.train_model(df, args.target_col, args.test_size, algorithm)
+
+    print("--- Training took %s seconds ---" % (time.time() - start_time))
 
     if args.save_model_file:
         pickle.dump(model, open(args.save_model_file, 'wb'))
