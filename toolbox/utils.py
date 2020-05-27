@@ -52,3 +52,4 @@ def calc_metrics(y_test, predictions):
     print('R2 Score: ', r2_score(y_test, predictions))
     print('Mean Absolute Error:', mean_absolute_error(y_test, predictions))
     print('Mean Square Error', mean_squared_error(y_test, predictions))
+    print()
